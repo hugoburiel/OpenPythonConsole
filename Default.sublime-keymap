@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["f9"],
+        "command": "show_panel",
+        "args": {
+            "panel": "console",
+            "toggle": true
+        }
+    }
+]
